@@ -1,4 +1,6 @@
 # DIVA Android
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAngelo99%2Fdiva-android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAngelo99%2Fdiva-android?ref=badge_shield)
+
 ---
 ## What is DIVA?
 DIVA (Damn insecure and vulnerable App) is an App intentionally designed to be insecure. We are releasing the Android version of Diva. We thought it would be a nice way to start the year by contributing something to the security community. The aim of the App is to teach developers/QA/security professionals, flaws that are generally present in the Apps due poor or insecure coding practices. If you are reading this, you want to either learn App pentesting or secure coding and I sincerely hope that DIVA solves your purpose. So, sit back and enjoy the ride.
@@ -79,3 +81,7 @@ We also organize two International Security Conferences
 
 **Website:** http://payatu.com
 **Email:** info (at) payatu dot com
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAngelo99%2Fdiva-android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAngelo99%2Fdiva-android?ref=badge_large)
