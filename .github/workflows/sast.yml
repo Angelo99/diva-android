@@ -4,11 +4,11 @@ jobs:
   SAST:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: fossas/fossa-action@main # Use a specific version if locking is preferred
         with:
           api-key: ${{secrets.fossaApiKey}}
           run-tests: true
-      - uses: actions/checkout@v2
       - name: mobsfscan
         uses: MobSF/mobsfscan@main
         with:
